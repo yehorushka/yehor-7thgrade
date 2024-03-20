@@ -1,7 +1,0 @@
-number1 = float(input("18"))
-number2 = float(input("61"))
-number3 = float(input("30"))
-
-min_number = min(number1, number2, number3)
-
-print("18", min_number)
